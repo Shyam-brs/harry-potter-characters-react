@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/harry-potter-characters-react/static/css/main.b59977e3.css",
-    "main.js": "/harry-potter-characters-react/static/js/main.4b6a12fa.js",
+    "main.css": "/harry-potter-characters-react/static/css/main.948afee5.css",
+    "main.js": "/harry-potter-characters-react/static/js/main.89eab4a0.js",
     "static/js/787.febbefd4.chunk.js": "/harry-potter-characters-react/static/js/787.febbefd4.chunk.js",
-    "static/media/BG.png": "/harry-potter-characters-react/static/media/BG.0805d1c579b3eb137695.png",
+    "static/media/back-bg2.jpg": "/harry-potter-characters-react/static/media/back-bg2.b5d4741f5fb656755cda.jpg",
     "index.html": "/harry-potter-characters-react/index.html",
-    "main.b59977e3.css.map": "/harry-potter-characters-react/static/css/main.b59977e3.css.map",
-    "main.4b6a12fa.js.map": "/harry-potter-characters-react/static/js/main.4b6a12fa.js.map",
+    "main.948afee5.css.map": "/harry-potter-characters-react/static/css/main.948afee5.css.map",
+    "main.89eab4a0.js.map": "/harry-potter-characters-react/static/js/main.89eab4a0.js.map",
     "787.febbefd4.chunk.js.map": "/harry-potter-characters-react/static/js/787.febbefd4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b59977e3.css",
-    "static/js/main.4b6a12fa.js"
+    "static/css/main.948afee5.css",
+    "static/js/main.89eab4a0.js"
   ]
 }
